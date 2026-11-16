@@ -7,7 +7,6 @@
   <!-- Badge informativi, di stato e download tracker -->
   <a href="https://store.steampowered.com/app/605230/Grey_Hack/"><img src="https://img.shields.io/badge/Gioco-Grey%20Hack-blue?style=for-the-badge&logo=steam" alt="Grey Hack Game"></a>
   <a href="https://github.com/GLWine/Grey-Hack-Traduzione-Italiana/releases/latest"><img src="https://img.shields.io/github/v/release/GLWine/Grey-Hack-Traduzione-Italiana?style=for-the-badge&color=success" alt="Latest Release"></a>
-  <img src="https://img.shields.io/badge/Versione%20Gioco-V0.9.7195a-orange?style=for-the-badge" alt="Game Version">
   <a href="https://github.com/GLWine/Grey-Hack-Traduzione-Italiana/releases"><img src="https://img.shields.io/github/downloads/GLWine/Grey-Hack-Traduzione-Italiana/total?style=for-the-badge&color=blue" alt="Total Downloads"></a>
   <a href="https://github.com/GLWine/Grey-Hack-Traduzione-Italiana/blob/main/LICENSE"><img src="https://img.shields.io/github/license/GLWine/Grey-Hack-Traduzione-Italiana?style=for-the-badge" alt="License"></a>
   <a href="https://github.com/GLWine/Grey-Hack-Traduzione-Italiana/actions"><img src="https://img.shields.io/github/actions/workflow/status/GLWine/Grey-Hack-Traduzione-Italiana/create-folders-on-release.yml?style=for-the-badge&label=Build" alt="Build Status"></a>
